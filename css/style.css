@@ -1,0 +1,9 @@
+.custom-select {
+	width: 4em !important;
+}
+.error {
+	font-size: small;
+	font-weight: 500;
+	color: red;
+  }
+  
